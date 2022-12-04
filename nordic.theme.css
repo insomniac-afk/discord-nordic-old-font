@@ -19,7 +19,7 @@
  */
 :root {
     --font-primary: "Whitney","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    --font-display: "gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    --font-display: "Whitney","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     --font-headline: "ABC Ginto Nord","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .theme-dark {
